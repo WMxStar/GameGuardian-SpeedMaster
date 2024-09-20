@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[![Releases]([https://github.com/WMxStar/GameGuardian-SpeedMaster/releases/tag/gameguardian](httg67ps://img.shields.io/badge/Releases%20-%20f))](Releases)
+[![Releases]([https://github.com/WMxStar/GameGuardian-SpeedMaster/releases/tag/gameguardian](https://img.shields.io/badge/Releases-8A2BE2))](Releases)
 
 
 
