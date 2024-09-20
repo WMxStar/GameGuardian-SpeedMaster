@@ -47,8 +47,7 @@
 
 由于此工具是基于Lua语言编写的，并且依赖于特定的应用环境 GameGuardian ，因此安装步骤如下：
 
-GameGuardian Lua脚本所有的Lua脚本都需要从官方网站下载GameGuardian APK。
-https://gameguardian.net/download
+GameGuardian Lua脚本所有的Lua脚本都需要从官方网站下载 GameGuardian APK[https://gameguardian.net/download]。
 
 ## 常见问题
 
