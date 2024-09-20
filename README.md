@@ -19,7 +19,7 @@
 
 | | 已测试测试项目 | |  
 | --- | --- | --- |  
-| 一念逍遥 | 王者荣耀 | 火影忍者 |  
+| 一念逍遥:white_check_mark: | 王者荣耀:white_check_mark: | 火影忍者:white_check_mark: |  
 
 ## 安装
 
