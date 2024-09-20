@@ -1,5 +1,6 @@
 # **GameGuardian 更好的网游变速器**
 [![License](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](LICENSE)
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![lua100](https://img.shields.io/badge/Lua%20%20-100%25-blue)](lua100)
 [![Releases](https://img.shields.io/badge/Releases-8A2BE2)](https://github.com/WMxStar/GameGuardian-SpeedMaster/releases)
