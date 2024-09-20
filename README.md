@@ -1,6 +1,9 @@
 # **GameGuardian 更好的网游变速器**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Releases]([httg67ps://img.shields.io/badge/Releases%20-%20f](https://github.com/WMxStar/GameGuardian-SpeedMaster/releases))](Releases)
+
+
 
 ## 目录
 
