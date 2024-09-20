@@ -1,14 +1,16 @@
-# Security Policy
+# 声明
+### 脚本需要在 GameGuardian 环境中运行。
+### 过度加速可能会导致游戏或程序服务器检测到异常，有封号的风险。
+### 在使用此脚本时，请确保您了解游戏的服务条款，并自行承担风险。
 
-## Supported Versions
+## 支持的版本
 
+### GameGuardian
 
-| Version | Supported          |
+| 版本 | 支持          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+|  101.1  | :white_check_mark: |
+| ＞90.0  | :white_check_mark: |
+| < 89.1  | :x:                |
 
-## Reporting a Vulnerability
 
