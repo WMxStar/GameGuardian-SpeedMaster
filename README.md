@@ -23,11 +23,13 @@
 
 ## 安装
 
-由于此工具是基于Lua语言编写的，并且依赖于特定的应用环境 GameGuardian ，因此需要安装：
+由于此工具是基于Lua语言编写的，并依赖于特定的应用环境 GameGuardian ，因此需要安装 GameGuardian
 
-GameGuardian 官方网站下载：[GameGuardian APK](https://gameguardian.net/download)
+GameGuardian 官方网站下载：
 
-网络游戏需使用过检测的GameGuardian
+[GameGuardian APK](https://gameguardian.net/download)
+
+网络游戏需使用过检测GameGuardian
 
 ## 功能介绍
 
