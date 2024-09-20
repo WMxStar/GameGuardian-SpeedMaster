@@ -80,4 +80,4 @@ A: 计算补偿时间是为了确保加速后的时间流逝与游戏服务器�
 
 ## ❤️ 贡献
 
-欢迎任何贡献！如果您发现bug或有任何改进意见，请提交 [issue](https://github.com/WMxStar/GameGuardian-SpeedMaster/issues) 或 [pull request](https://github.com/WMxStar/GameGuardian-SpeedMaster/pulls)。
+欢迎任何贡献！如果您发现bug或有任何功能上的想法和改进意见，请提交 [issue](https://github.com/WMxStar/GameGuardian-SpeedMaster/issues) 或 [pull request](https://github.com/WMxStar/GameGuardian-SpeedMaster/pulls)。
