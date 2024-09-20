@@ -1,5 +1,5 @@
-# **GameGuardian 更好的网游变速器**
-## GG-SpeedTurbo
+# **更好的网游变速器**
+### GG-SpeedTurbo
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](Android)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](Unity)
@@ -22,7 +22,7 @@
 
 ## 📖 简介
 
-更好的网游变速器用于网络游戏或其他应用程序的加速工具。
+更好的网游变速器用于网络游戏或其他联网应用的加速工具。
 帮助你在玩游戏或使用某些应用程序时获得更好的体验。
 该脚本提供自定义加速倍速、计算补偿时间、单次加速及循环加速。
 
