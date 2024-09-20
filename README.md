@@ -1,12 +1,12 @@
 # **GameGuardian 更好的网游变速器**
-
+##
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![lua100](https://img.shields.io/badge/Lua%20%20-100%25-blue)](lua100)
 [![Releases](https://img.shields.io/badge/Releases-8A2BE2)](https://github.com/WMxStar/GameGuardian-SpeedMaster/releases)
 
 
 
-## 目录
+## 📜 目录
 
 - [简介](#简介)
 - [安装](#安装)
@@ -15,7 +15,7 @@
 - [贡献](#贡献)
 
 
-## 简介
+## 📖 简介
 
 更好的网游变速器用于网络游戏或其他应用程序的加速工具。
 帮助你在玩游戏或使用某些应用程序时获得更好的体验。
@@ -25,7 +25,7 @@
 | --- | --- | --- |  
 | 一念逍遥 :white_check_mark: | 王者荣耀 :white_check_mark: | 火影忍者 :white_check_mark: |  
 
-## 安装
+## 🚀 安装
 
 由于此工具是基于Lua语言编写的，并依赖于特定的应用环境 GameGuardian ，因此需要安装 GameGuardian
 
@@ -35,7 +35,7 @@ GameGuardian 官方网站下载：
 
 网络游戏需使用过检测GameGuardian
 
-## 功能介绍
+## 🎮 功能介绍
 
    - **自定义设置**：允许自定义设置加速倍速和加速持续时间。
    - **计算补偿时间**：查看加速后的所需的补偿时间。
@@ -58,7 +58,7 @@ GameGuardian 官方网站下载：
 
 用户可以选择开启循环加速模式，在这种模式下，工具将自动重复加速和减速补偿的过程，直到用户手动中断程序。循环加速模式适合长时间的游戏或应用加速。
 
-## 常见问题
+## 💡 常见问题
 
 ### Q: 如何设置加速倍速和加速持续时间？
 
@@ -72,6 +72,6 @@ A: 在循环加速模式下，需要手动点击⬛中断运行按钮或结束�
 
 A: 计算补偿时间是为了确保加速后的时间流逝与游戏服务器实际时间相同步，防止游戏或应用出现时间偏差。
 
-## 贡献
+## ❤️ 贡献
 
 欢迎任何贡献！如果您发现bug或有任何改进意见，请提交 [issue](https://github.com/WMxStar/GameGuardian-SpeedMaster/issues) 或 [pull request](https://github.com/WMxStar/GameGuardian-SpeedMaster/pulls)。
