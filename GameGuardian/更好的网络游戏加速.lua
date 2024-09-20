@@ -3,7 +3,6 @@ local accSpeed = nil
 local accDur = nil
 local decSpeed = 0.45
 
--- 提示设置
 function TS()
     gg.alert("请先设置加速倍速和加速时间。", "确定", nil, nil)
     showMenu()
@@ -97,7 +96,6 @@ function loopAccel()
     end
 end
 
--- 显示主菜单
 function showMenu()
     if not jilu then
         initVals()
