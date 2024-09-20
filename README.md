@@ -1,8 +1,6 @@
 # 通用加速工具
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/travis/example-project/master.svg)](https://travis-ci.org/example-project)
-[![GitHub issues](https://img.shields.io/github/issues/example/example-project.svg)](https://github.com/example/example-project/issues)
 
 ## 目录
 
